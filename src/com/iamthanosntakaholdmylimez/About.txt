@@ -1,0 +1,9 @@
+NM - You are not allowed to modify/remix the product
+BY - Appropriate credit must be given when sharing your modification/remix
+PBY - Appropriate credit must be given when sharing your modification/remix for another product (this only applies to modifications/remixes that include content ported from this product)
+NC - This product may not be used commercially
+SL - The same license must be used when sharing your modification/remix
+PSL - The same license must be used when sharing your modification/remix for another product (this only applies to modifications/remixes that include content ported from this product)
+NP - You are not allowed to port content from the product
+NMD - You are not allowed to share your modification/remix
+NPD - You are not allowed to share your modification/remix for another product (this only applies to modifications/remixes that include content ported from this product.), and cannot share for example 3D models from the product's files unless the product is open source or the creator of the product has given you permission
